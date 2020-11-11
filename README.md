@@ -13,7 +13,7 @@ Please take time for these questions as this class is constantly changing based 
 
 In the past weeks, we've given you video tutorials, but now that we're towards the end, we want to make sure you get into the habit of researching already-existing documentation and comprehending it. To help supplement this, we'll be hosting more OH this week.
 
-* [Here](https://jarv.is/notes/how-to-pull-request-fork-github/) is a great resource to learn how to create a pull request from a forked repository. You can ignore Step 3 and then replace Step 4 with Step 3 in our *Step by Step*.
+* [Here](https://jarv.is/notes/how-to-pull-request-fork-github/) is a great resource to learn how to create a pull request from a forked repository. You can ignore Step 3 and then replace Step 4 with Step 3 in our *[Step by Step](https://github.com/hortonuva/tools-f20-week12/blob/main/README.md#step-by-step)*.
 * [Here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) is a great resource actually written by GitHub about how to create a branch.
 * If you're interested in learning more about the collaboration that can be accomplished with GitHub, check out [this documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches)
 
