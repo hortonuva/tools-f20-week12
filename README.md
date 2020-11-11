@@ -25,3 +25,10 @@ In the past weeks, we've given you video tutorials, but now that we're towards t
 3. **[Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)**. Once you have your repository open locally, this can be done by going into your Terminal (Mac) or Git Bash (Windows) and giving the command `git checkout -b <branch-name>`. For your branch name, please put *add-computingID-txt*. Please continue all other steps on this branch.
 4. **Add a .txt file**. Follow the instructions above for the file contents. Here, you'll create a .txt file. For Windows, you can do this in [Notepad](https://www.computerhope.com/issues/ch001359.htm). For Mac, you can do this on [TextEdit](https://macreports.com/how-to-create-a-text-txt-file-on-a-mac/). These are pre-installed softwares and should be the least technically challenging portion of this assignment. If you have problems with this portion or any other, please post in Discord #content-questions or come to office hours!
 4. **Submit a pull request**. After you add, commit, and push, come back to this *original* repository and click the **Pull requests** tab. There you'll see a prompt in a yellow box and button that says *Compare & Pull Request*. For a more detailed view, scroll down to [Step 7](https://jarv.is/notes/how-to-pull-request-fork-github/).
+
+---
+
+### Additional Logistic Information
+This assignment will be graded hand-in-hand with Collab's Week 12 LinkedIn assignment. If you complete one half, but not the other, you'll be given an Unsatisfactory and therefore a Fail. Please avoid procrasination and keep in mind all PRs are time-stamped and we can see your history.
+
+Madi Flynn will also be hosting a specifically Git-based OH this week where you can ask questions that you may have not gotten answered the first time around. If you can't attend this session, feel free to post these questions in #content-questions and she'll post the recording (if it can't be answered via text) after the session.
