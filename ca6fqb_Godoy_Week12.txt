@@ -1,0 +1,19 @@
+1)what you've enjoyed about this course?
+It was a great learning experience for me and it opened a lot of doors for me to experience with cs myself. 
+What I liked the most were the OH, because it gave me the opportunity to talk to people who are (1)more experienced programmers
+than I am and (2)students who just trailed the path I intend to trail as well. I especially liked the option to schedule a mock 
+interview with Jonathan on fridays and I think more of the upperclassmen should give students that option.
+
+2)what you would change about this course?
+I would make it a little more focused. I learned many concepts (like using databases, making virtual envs,CI/CD, testing and etc)
+but not enough to try doing it myself, for the most part. I tried diving a little more into databases for a personal project and 
+classes helped, but I feel like you could spend more time in each concept you want us to learn, enough so we could use it ourselves.
+This way, we will spend our own times to dive deeper into the aspects that interest us the most. 
+I understand that we can already do that(which is part of the reason I liked the class so much), but I think that if you decided to teach
+a little more in depth instead of so many things it would be better.I also think you could start a 2 or 3 credit version of this easily.
+Also, I'd make it more obvious that we have to do personal career development activities - at least I only discovered it a couple weeks back.
+Also, make it more windows friendly for classes with command prompt.
+
+3)any advice you have for next semester's students?
+Even though you don't have to, try doing all weekly projects and pick some of the concepts to dive deeper in. And USE THE OFFICE HOURS, not only
+for help on the HW, but to ask them for carrer advice.
