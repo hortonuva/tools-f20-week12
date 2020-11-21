@@ -1,0 +1,8 @@
+1. What I've enjoyed about this course
+I found this course to be incredibly helpful for introducing new concepts, such as git, that I had heard about, but was unfamiliar with.  In fact, after the introduction to git week, I was able to make a commit to the repo of my current CS class (2150)!  I liked how every week there was a new topic that did not go too into depth, but was still useful with the new information presented.
+
+2. What you would change about this course
+For me, the biggest struggle, especially with this being such an online semester, was remembering that I had coursework for this class, and I even forgot for a few weeks.  This was my only asynchronous course, and while I did not mean to disrespect the TAs by not completing all of the assignments, especially knowing that they themselves created them, it was harder to do work for an asynch class knowing it was only for credit, when I had several other synchronous courses.  I guess I would make a consistent meeting time every week (office hours changed frequently) where one of the TAs went over the course materials, as sort of a live lecture, which would make it easier to keep on top of the work.
+
+3. Any advice for next semester's students
+Don't get behind, and don't forget you are enrolled in this course! The world is a little crazy, but make sure you complete the assignments, and figure out the earlier assignments, since some of them do build off of concepts introduced earlier (especially the gitHub part).
