@@ -1,0 +1,6 @@
+1. What you've enjoyed about this course
+	I have enjoyed that the class gives you a wide breath of technology to be introduced to
+2. What you would change about this course
+	Maybe more work with git and github? make assignments due through github and make the class feel more like contributing to an open source project.
+3. Any advice you have for next semester's students
+	Remeber to do the proffessional development google form. I forgot it existed until I re-read the syllbus yesterday
