@@ -1,0 +1,20 @@
+1. what you've enjoyed about this course
+I've enjoyed the variety of assignments that touch on distinct 
+and important aspects of computer science. I especially like learning more about Github, the bandit wargame, build tools, industry representatives and industry lingo. 
+I would recomend changing the Bash week 4 assignemnt to have a specific level cut off, though I only got to (level6 -> level7) so I don't know how hard bandit can get.
+Also huge thank you to you guys the course staff for making this amazing course possible!
+Everyone learning computer science or anything related should definitely take it.
+I also think working with UVAWise on this course is magnificent. 
+2. what you would change about this course 
+Week 7 had some video issues so I would recommend having the video recorded again.
+The Git labs need links to tutorials/documentation for setting up on Windows. 
+More team based projects (though independant work was also nice) or an icebreaker through discord at the start of the course to make it easier to form teams to work on assignments.
+More Town hall meetings would be nice too.
+
+3. any advice you have for next semester's students
+Go to office hours! Everyone in this course is here to help you succeed.
+
+
+git add .   
+git commit -m "Initial commit" 
+git push
