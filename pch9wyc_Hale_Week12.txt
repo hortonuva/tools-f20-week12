@@ -1,0 +1,6 @@
+﻿1. What you’ve enjoyed about this course: 
+I have enjoyed learning about real, applicable concepts of the computing world. I feel like so many of the concepts we learn in class, the early CS classes especially, do not seem very applicable to real work experience. However, I really liked being able to learn about everything computer-science related that was not coding, such as SQL, GitHub, and industry vocabulary.
+2. What you would change about this course: 
+I would not change much about this class, but I wish we practiced more with GitHub and did more practice learning the software. I liked getting an overview of several topics, but I wish we could have gone more in depth in a few important topics. 
+3. Advice for next semester’s students:
+My advice for next semester’s students is to do the weekly assignments early so that there is ample time to attend office hours during the week. Also, it would be helpful to do additional research on the week’s subject in order to better understand each topic.
